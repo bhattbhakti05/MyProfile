@@ -18,19 +18,19 @@
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!--![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C%3B&logoColor=A8B9CC)&nbsp;-->
+![C#](https://img.shields.io/badge/-C%23-green)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=powerbi)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-05122A?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
-![Rstudio](https://img.shields.io/badge/R-studio-blue-style=flat&logo)&nbsp;
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-orange)&nbsp;
+![Rstudio](https://img.shields.io/badge/R-studio-blue)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/apurvs21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=apurvs21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/bhattbhakti05">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhattbhakti05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </a>
 </p>
