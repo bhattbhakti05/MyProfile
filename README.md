@@ -1,11 +1,13 @@
 # MyProfile
 <h2>👋 Helloooo! I am Bhakti Bhatt</h2>
-
-### 👨🏻‍💻 &nbsp;About Me
-💻 Data Analytics for Business Student\
-💡 &nbsp;I like to explore new technologies.\
-🌱 &nbsp;I'm on track for learning more about Data, EDA, and Statistics.\
-✉️ &nbsp;You can shoot me an email at apurvsathwara@gmail.com!
+👩🏻‍💻 &nbsp;About Me
+<br>💻 Data Analytics for Business Student
+<br>💡 &nbsp;Aspiring data analyst eager to learn and grow in the field of data analysis. 
+<br>&nbsp;->Proficient in statistical analysis tools such as R and Python, and experienced in data cleaning and visualization. 
+<br>&nbsp->;Passionate about uncovering insights that inform business decisions and excited to collaborate with others in the data community. 
+<br>&nbsp;->Continuously learning and working on new projects to improve my skills and gain more experience.
+<br>🌱 &nbsp;Being eager to learn new technologies and methods in the data analytics field is essential for staying up-to-date with the latest advancements and being able to provide valuable insights to businesses. It shows a commitment to continuous learning and professional development.
+📩 &nbsp;You can shoot me an email at bhaktibhatt01@gmail.com!
 
 <img alt="coding" src="./assets/coding.gif" align="right" style="height: 35%;width: 25%"/>
 
