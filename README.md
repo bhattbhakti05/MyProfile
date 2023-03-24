@@ -7,7 +7,7 @@
 <br>&nbsp;->Passionate about uncovering insights that inform business decisions and excited to collaborate with others in the data community. 
 <br>&nbsp;->Continuously learning and working on new projects to improve my skills and gain more experience.
 <br>🌱 &nbsp;Being eager to learn new technologies and methods in the data analytics field is essential for staying up-to-date with the latest advancements and being able to provide valuable insights to businesses. It shows a commitment to continuous learning and professional development.
-📩 &nbsp;You can shoot me an email at bhaktibhatt01@gmail.com!
+<br>📩 &nbsp;You can shoot me an email at bhaktibhatt01@gmail.com!
 
 <img alt="coding" src="./assets/coding.gif" align="right" style="height: 35%;width: 25%"/>
 
@@ -23,7 +23,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PowerBi](https://img.shields.io/badge/-PowerBi-05122A?style=flat&logo=powerbi)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-05122A?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
+![Rstudio](https://img.shields.io/badge/R-studio-blue-style=flat&logo)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
