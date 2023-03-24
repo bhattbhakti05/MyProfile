@@ -38,6 +38,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://bit.ly/3K0mka5"><img src="https://img.shields.io/badge/-Apurv%20Sathwara-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:apurvsathwara@gmail.com"><img src="https://img.shields.io/badge/-Apurv%20Sathwara-red?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://bit.ly/3K0mka5"><img src="https://img.shields.io/badge/-Bhakti%20Bhatt-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bhaktibhatt01@gmail.com"><img src="https://img.shields.io/badge/-Bhakti%20Bhatt-red?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
